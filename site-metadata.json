@@ -1,9 +1,9 @@
 {
-  "title": "Stackbit Ampersand Theme",
+  "title": "Denebola Online Lab",
   "layout_style": "grid",
-  "palette": "blue",
+  "palette": "red",
   "header": {
-    "title": "Ampersand",
+    "title": "Denebola",
     "logo_img": "images/logo.png",
     "has_nav": true
   },
